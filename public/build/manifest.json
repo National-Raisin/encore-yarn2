@@ -1,0 +1,5 @@
+{
+  "build/app.js": "http://localhost:8080/build/app.js",
+  "build/runtime.js": "http://localhost:8080/build/runtime.js",
+  "build/vendors-_yarn___virtual___webpack-dev-server-virtual-a8c901cdee_0_cache_webpack-dev-server-np-3e9fd4.js": "http://localhost:8080/build/vendors-_yarn___virtual___webpack-dev-server-virtual-a8c901cdee_0_cache_webpack-dev-server-np-3e9fd4.js"
+}
